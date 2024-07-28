@@ -1,0 +1,3 @@
+latitude=17.4
+longitude=78.3
+
